@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Yousef</h1>
-<h3 align="center">A passionate Backend developer from Jordan</h3>
+<h3 align="center">Backend-Focused developer </h3>
 
-- 📫 How to reach me **ibrahimyousef4@outlook.com**
+- 📫 **ibrahimyousef4@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
