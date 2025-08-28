@@ -11,17 +11,6 @@
 
 ---
 
-## 🛠️ Languages & Tools  
-
-**Programming & Frameworks:**  
-Java • JavaScript • Node.js • .NET Core • React  
-
-**Databases:**  
-PostgreSQL • MySQL • MongoDB  
-
-**DevOps & Tools:**  
-Docker • Kubernetes • Git  
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -38,9 +27,3 @@ Docker • Kubernetes • Git
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimnazih&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimnazih&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
-</p>
