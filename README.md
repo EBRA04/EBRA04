@@ -2,7 +2,6 @@
 
 ### 💻 Software Developer | Backend | APIs | Databases | Systems  
 
-📍 Amman, Jordan  
 📫 Reach me at **ibrahimyousef4@outlook.com**  
 
 ---
