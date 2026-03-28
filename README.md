@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ibrahim Yousef  
 
-### 💻 Software Developer | Backend (.NET) | APIs | Databases | Systems  
+### 💻 Software Developer | Backend | APIs | Databases | Systems  
 
 📍 Amman, Jordan  
 📫 Reach me at **ibrahimyousef4@outlook.com**  
@@ -30,5 +30,3 @@
 ---
 
 
-📫 **Email:** ibrahimyousef4@outlook.com  
-🔗 **LinkedIn:** [Ibrahim Yousef](https://www.linkedin.com/in/ibrahim-yousef-370606257/)
