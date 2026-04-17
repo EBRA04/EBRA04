@@ -1,31 +1,74 @@
-# 👋 Hi, I'm Ibrahim Yousef  
+<h1 align="center">👋 Hi, I'm Ibrahim Yousef</h1>
+<h3 align="center">Backend Developer | APIs | Databases | System Design</h3>
 
-### 💻 Software Developer | Backend | APIs | Databases | Systems  
-
-📫 Reach me at **ibrahimyousef4@outlook.com**  
-
----
-
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ibrahim%20Yousef-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-yousef-370606257/)  
-
----
-
-
-## ⚙️ Tech Stack  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <a href="mailto:ibrahimyousef4@outlook.com">
+    <img src="https://img.shields.io/badge/Email-ibrahimyousef4%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ibrahim-yousef-370606257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Yousef-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 🚀 About Me  
+💻 Backend-focused Software Developer passionate about building scalable systems, clean APIs, and optimized databases.  
+⚡ I enjoy working on **system architecture**, **performance**, and **real-world projects**.  
+📌 Currently improving my skills in **ASP.NET Core**, **Databases**, and **API Design**.
 
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Languages & Frameworks
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
+</p>
+
+### ⚙️ Tools & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📌 Current Focus  
+✅ Building scalable **REST APIs** with ASP.NET Core  
+✅ Improving **database performance & design**  
+✅ Learning **system design & cloud fundamentals**
+
+---
+
+## 🤝 Let's Connect  
+📫 Email: **ibrahimyousef4@outlook.com**  
+💼 LinkedIn: [Ibrahim Yousef](https://www.linkedin.com/in/ibrahim-yousef-370606257/)
