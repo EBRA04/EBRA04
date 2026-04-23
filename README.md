@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ibrahim Yousef</h1>
-<h3 align="center">Backend Developer | APIs | Databases | System Design</h3>
+<h3 align="center">Software Developer | Backend | APIs | Databases | System Design</h3>
 
 <p align="center">
   <a href="mailto:ibrahimyousef4@outlook.com">
@@ -12,16 +12,20 @@
 
 ---
 
-##  About Me  
- Backend-focused Software Developer passionate about building scalable systems, clean APIs, and optimized databases.  
- I enjoy working on **system architecture**, **performance**, and **real-world projects**.  
- Currently improving my skills in **ASP.NET Core**, **Databases**, and **API Design**.
+## 👨‍💻 About Me  
+I'm a backend-focused software developer interested in building **scalable APIs**, **efficient database systems**, and clean backend architectures.  
+I enjoy working on real-world engineering problems such as **performance**, **security**, and **system design**.
+
+- 🔹 Backend Development (ASP.NET Core, Node.js)  
+- 🔹 API Design & Integration  
+- 🔹 Relational & NoSQL Databases  
+- 🔹 Clean Architecture & Best Practices  
 
 ---
 
 ## 🛠 Tech Stack  
 
-###  Languages & Frameworks
+### ⚙️ Languages & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="55" height="55"/>
@@ -30,14 +34,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55" height="55"/>
 </p>
 
-###  Databases
+### 🗄️ Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55" height="55"/>
 </p>
 
-###  Tools & DevOps
+### 🧰 Tools & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/>
@@ -45,6 +49,14 @@
 
 ---
 
-## 🤝 Let's Connect  
-📫 Email: **ibrahimyousef4@outlook.com**  
-💼 LinkedIn: [Ibrahim Yousef](https://www.linkedin.com/in/ibrahim-yousef-370606257/)
+## 📌 Focus Areas
+- Backend Systems & API Engineering  
+- Database Design & Optimization  
+- Authentication & Security Practices  
+- Scalable System Architecture  
+
+---
+
+## 🤝 Connect With Me  
+📫 **Email:** ibrahimyousef4@outlook.com  
+💼 **LinkedIn:** [Ibrahim Yousef](https://www.linkedin.com/in/ibrahim-yousef-370606257/)
