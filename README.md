@@ -1,36 +1,7 @@
-<h1 align="center">👋 Hi, I'm Ibrahim Yousef</h1>
-<h3 align="center">Software Developer | Backend | APIs | Databases | System Design</h3>
+# Ibrahim Yousef
 
-<p align="center">
-  <a href="mailto:ibrahimyousef4@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ibrahimyousef4%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ibrahim-yousef-370606257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ibrahim%20Yousef-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+Software Developer
 
----
+Focused on building modern scaleable applications 
 
-## 👨‍💻 About Me  
-I'm a backend-focused software developer interested in building **scalable APIs**, **efficient database systems**, and clean backend architectures.  
-I enjoy working on real-world engineering problems such as **performance**, **security**, and **system design**.
-
-- 🔹 Backend Development 
-- 🔹 API Design & Integration  
-- 🔹 Relational & NoSQL Databases  
-- 🔹 Clean Architecture & Best Practices  
-
----
-
-## 📌 Focus Areas
-- Backend Systems & API Engineering  
-- Database Design & Optimization  
-- Authentication & Security Practices  
-- Scalable System Architecture  
-
----
-
-## 🤝 Connect With Me  
-📫 **Email:** ibrahimyousef4@outlook.com  
-💼 **LinkedIn:** [Ibrahim Yousef](https://www.linkedin.com/in/ibrahim-yousef-370606257/)
+📫 ibrahimyousef4@outlook.com
