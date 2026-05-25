@@ -1,7 +1,20 @@
 # Ibrahim Yousef
 
-Software Developer
+Backend Developer focused on ASP.NET Core, APIs, databases, and scalable backend systems.
 
-Interested in building reliable systems, working with APIs, and developing scalable applications.
+## Tech Stack
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server / PostgreSQL
+- REST APIs
+- JWT Authentication
+- Docker
+- Redis
 
-📫 ibrahimyousef4@outlook.com
+## Current Focus
+Building production-style backend systems and improving software architecture skills.
+
+## Featured Projects
+- Mashroo3i
+- Book Management API
+- Restaurant Discovery Platform
